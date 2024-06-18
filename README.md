@@ -1,5 +1,5 @@
 ## Тиристор
-!(https://github.com/Axialer/electronics/main/2020240618114230.png?raw=true)
+![]([http://url/to/img.png](https://github.com/Axialer/electronics/blob/main/20240618114230.png))
 
 А - анод
 К - катод
