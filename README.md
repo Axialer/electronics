@@ -1,5 +1,6 @@
 ## Тиристор
-!(https://github.com/Axialer/electronics/blob/main/Pasted%20image%2020240618114230.png)
+!(https://github.com/Axialer/electronics/blob/main/Pasted%20image%2020240618114230.png?raw=true)
+
 А - анод
 К - катод
 УЭ - управляющий электрод
