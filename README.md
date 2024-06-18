@@ -74,7 +74,7 @@
 
 ### Устройство
 #### Биполярный транзистор (NPN)
-![](https://github.com/Axialer/electronics/blob/main/20240618120814.png)
+![](https://github.com/Axialer/electronics/blob/main/20240618120814.jpg)
 
 #### Полевой транзистор
 ![](https://github.com/Axialer/electronics/blob/main/20240618121150.png)
@@ -112,7 +112,7 @@
 
 ## Компаратор
 **Компаратор** — это электронное устройство, которое сравнивает два аналоговых сигнала и вырабатывает на выходе цифровой сигнал, указывающий, какой из входных сигналов больше. Он широко используется в электронике для выполнения операций сравнения и принятия решений на основе этих сравнений.
-![](https://github.com/Axialer/electronics/blob/main/20240618131233.png)
+![](https://github.com/Axialer/electronics/blob/main/20240618131233.jpg)
 ![](https://github.com/Axialer/electronics/blob/main/20240618131303.png)
 ### Устройство компаратора
 Основные элементы компаратора включают:
